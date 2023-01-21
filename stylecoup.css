@@ -1,7 +1,7 @@
 .container0 {
   z-index: 20;
   opacity: 5;
-  width: 360px;
+  width: 404px;
   height: 300px;
   border-radius: 0px 25px 0px 25px;
 }
@@ -22,7 +22,7 @@
   font-size: 25px;
   border: 1px solid black;
   background-color: black;
-  margin: 79px 223px 58px 83px;
+  margin: 79px 223px 58px 40px;
   color: white;
 }
 #copy0 {
