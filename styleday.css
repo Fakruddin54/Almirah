@@ -1,0 +1,15 @@
+#moonicon {
+  height: 35px;
+  width: 35px;
+  cursor: pointer;
+}
+
+body {
+  background-color: #edf2fc;
+  color: #212121;
+}
+
+.dark-theme {
+  color: #edf2fc;
+  background-color: #212121;
+}
